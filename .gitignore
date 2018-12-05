@@ -1,0 +1,5 @@
+.idea
+target/*
+deploy_app
+deploy_app.pub
+.env
